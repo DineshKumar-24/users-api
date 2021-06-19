@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "David",
+      "age": 30
+    },
+    {
+      "name": "John",
+      "id": 2,
+      "age": 40
+    },
+    {
+      "firstName": "sdasd",
+      "lastName": "sdasd",
+      "email": "asdasd@gma.cm",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "dob": "2021-06-17",
+      "age": "21",
+      "bloodGroup": "A",
+      "address": "123456",
+      "phoneNumber": "1234567899",
+      "city": "123",
+      "state": "1213",
+      "zipcode": "123454",
+      "id": 3
+    }
+  ]
+}
